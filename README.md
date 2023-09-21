@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AbdulwaliAlhammadi/Huddle-landing-page-with-single-introductory-section-main.git](https://github.com/AbdulwaliAlhammadi/Huddle-landing-page-with-single-introductory-section-main.git)
-- Live Site URL: [https://abdulwalialhammadi.github.io/Huddle-landing-page-with-single-introductory-section-main/index.html](https://abdulwalialhammadi.github.io/Huddle-landing-page-with-single-introductory-section-main/index.html)
+- Solution URL: [https://github.com/AbdulwaliAlhammadi/huddle-landing-page-with-single-introductory-section-master.git](https://github.com/AbdulwaliAlhammadi/huddle-landing-page-with-single-introductory-section-master.git)
+- Live Site URL: [https://abdulwalialhammadi.github.io/huddle-landing-page-with-single-introductory-section-master/index.html](https://abdulwalialhammadi.github.io/huddle-landing-page-with-single-introductory-section-master/index.html)
 
 ## My process
 
